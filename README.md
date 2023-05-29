@@ -16,3 +16,7 @@ Laravel Livewire Soccers
 6. Setup your local database credential to `.env`
 7. Run `php artisan migrate`
 8. Run `php artisan db:seed`
+
+## Preview
+
+1. sample recording https://somup.com/c0hUnpaO4A
