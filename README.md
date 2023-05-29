@@ -8,7 +8,7 @@ Laravel Livewire Soccers
 
 ## Installation 
 
-1. Clone repo `git clone ssh://git@git.mindaperdana.com:2200/mindaperdana/inventory.git`
+1. Clone repo `git clone git@github.com:fahmipotlot/liveware-soccer.git`
 2. Copy .env file `cp .env.example .env`
 3. Run `composer install`
 4. Generate Key `php artisan key:generate`
